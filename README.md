@@ -9,8 +9,8 @@ A website where we showcase our FE coding skills and our resumes
 ![](images-docs/colour_palette.PNG)
 
 # Coding Style
-Something about camel case
-example
+- Something about camel case
+- An Example
 
 # Semantic Commit Messages 
 (from https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
