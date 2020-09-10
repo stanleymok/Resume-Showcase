@@ -2,9 +2,8 @@
 A website where we showcase our FE coding skills and our resumes
 
 # Tech Stack
-Front-End: Angular JS
-
-Back-End: firebase backend if needed
+- Front-End: Angular JS
+- Back-End: Firebase if needed
 
 # Colour Palette (UI/UX)
 ![](images-docs/colour_palette.PNG)
