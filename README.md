@@ -1,5 +1,5 @@
 # Resume-Showcase
-A website where we showcase our FE coding skills and our resumes
+Description
 
 # Tech Stack
 - Front-End: Angular JS
