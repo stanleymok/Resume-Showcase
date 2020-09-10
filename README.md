@@ -1,4 +1,4 @@
-# resume-fe
+# RESUME-SHOWCASE
 A website where we showcase our FE coding skills and our resumes
 
 # TECH STACK
