@@ -1,10 +1,10 @@
-# RESUME-SHOWCASE
+# Resume-Showcase
 A website where we showcase our FE coding skills and our resumes
 
-# TECH STACK
+# Tech Stack
 Angular JS, with firebase backend if needed
 
-# CODING STYLE
+# Coding Style
 Something about camel case
 example
 
