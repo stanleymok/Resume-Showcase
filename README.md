@@ -2,7 +2,12 @@
 A website where we showcase our FE coding skills and our resumes
 
 # Tech Stack
-Angular JS, with firebase backend if needed
+Front-End: Angular JS
+
+Back-End: firebase backend if needed
+
+# Colour Palette (UI/UX)
+![](images-docs/colour_palette.PNG)
 
 # Coding Style
 Something about camel case
