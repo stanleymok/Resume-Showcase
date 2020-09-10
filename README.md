@@ -1,12 +1,16 @@
 # Resume-Showcase
-A website where we showcase our FE coding skills and our resumes
+Description
 
 # Tech Stack
-Angular JS, with firebase backend if needed
+- Front-End: Angular JS
+- Back-End: Firebase if needed
+
+# Colour Palette (UI/UX)
+![](images-docs/colour_palette.PNG)
 
 # Coding Style
-Something about camel case
-example
+- Something about camel case
+- An Example
 
 # Semantic Commit Messages 
 (from https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
