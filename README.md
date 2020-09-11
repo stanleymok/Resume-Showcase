@@ -1,15 +1,15 @@
 # Resume-Showcase
-Description
+A website where we showcase/learn Front-End coding skills, and display our resumes.
 
 # Tech Stack
-- Front-End: Angular JS
-- Back-End: Firebase if needed
+- Front-End: React JS
+- Back-End: Firebase (if needed)
 
 # Colour Palette (UI/UX)
 ![](images-docs/colour_palette.PNG)
 
 # Coding Style
-- Something about camel case
+- Camel case
 - An Example
 
 # Semantic Commit Messages 
@@ -41,9 +41,3 @@ More Examples:
 - `refactor`: (refactoring production code, eg. renaming a variable)
 - `test`: (adding missing tests, refactoring tests; no production code change)
 - `chore`: (updating grunt tasks etc; no production code change)
-
-References:
-
-- https://www.conventionalcommits.org/
-- https://seesparkbox.com/foundry/semantic_commit_messages
-- http://karma-runner.github.io/1.0/dev/git-commit-msg.html
