@@ -10,8 +10,8 @@ In repo, run in terminal:
 - `npm init -y`
 - `npm install babel-cli@6 babel-preset-react-app@3`
 
-cThen create folder `src`
-- `px babel --watch src --out-dir . --presets react-app/prod`
+Then create folder `src`
+- `npx babel --watch src --out-dir . --presets react-app/prod`
 
 # Tech Stack
 - Front-End: React JS
