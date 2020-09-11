@@ -1,6 +1,15 @@
 # Resume-Showcase
 A website where we showcase/learn Front-End coding skills, and display our resumes.
 
+# Set Up
+https://reactjs.org/docs/add-react-to-a-website.html#add-jsx-to-a-project
+Adding JSX to project
+- Pre-req: Have node.js
+- in repo, run `npm init -y` in terminal
+- `npm install babel-cli@6 babel-preset-react-app@3`
+- create folder `src`
+- `px babel --watch src --out-dir . --presets react-app/prod`
+
 # Tech Stack
 - Front-End: React JS
 - Back-End: Firebase (if needed)
