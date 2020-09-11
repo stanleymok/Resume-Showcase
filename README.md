@@ -5,10 +5,12 @@ A website where we showcase/learn Front-End coding skills, and display our resum
 https://reactjs.org/docs/add-react-to-a-website.html#add-jsx-to-a-project
 Adding JSX to project
 - Pre-req: Have node.js
+
 In repo, run in terminal: 
 - `npm init -y`
 - `npm install babel-cli@6 babel-preset-react-app@3`
-Then create folder `src`
+
+cThen create folder `src`
 - `px babel --watch src --out-dir . --presets react-app/prod`
 
 # Tech Stack
