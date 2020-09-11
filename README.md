@@ -4,7 +4,7 @@ A website where we showcase/learn Front-End coding skills, and display our resum
 # Set Up
 https://reactjs.org/docs/add-react-to-a-website.html#add-jsx-to-a-project
 Adding JSX to project
-- Pre-req: Have node.js
+- Pre-requisite: Have node.js
 
 In repo, run in terminal: 
 - `npm init -y`
@@ -22,7 +22,8 @@ Then create folder `src`
 
 # Coding Style
 - Camel case
-- An Example
+- `newString;`
+- `getNewString()`
 
 # Semantic Commit Messages 
 (from https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
