@@ -1,9 +1,8 @@
 # Resume-Showcase
 A website where we showcase/learn Front-End coding skills, and display our resumes.
 
-# Set Up
-https://reactjs.org/docs/add-react-to-a-website.html#add-jsx-to-a-project
-Adding JSX to project
+# Repository Set Up
+[Adding JSX to project](https://reactjs.org/docs/add-react-to-a-website.html#add-jsx-to-a-project)
 - Pre-requisite: Have node.js
 
 In repo, run in terminal: 
@@ -13,20 +12,23 @@ In repo, run in terminal:
 Then create folder `src`
 - `npx babel --watch src --out-dir . --presets react-app/prod`
 
-# Tech Stack
+# Technology Stack
 - Front-End: React JS
 - Back-End: Firebase (if needed)
 
 # Colour Palette (UI/UX)
 ![](images-docs/colour_palette.PNG)
 
-# Coding Style
-- Camel case
-- `newString;`
-- `getNewString()`
+# camelCase coding style
+camelCase is a naming convention in which each word within a compound word is capitalized except for the first word.
+
+## Example
+```
+newString;
+getNewString()
+```
 
 # Semantic Commit Messages 
-(from https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 
 See how a minor change to your commit message style can make you a better programmer.
 
@@ -54,3 +56,5 @@ More Examples:
 - `refactor`: (refactoring production code, eg. renaming a variable)
 - `test`: (adding missing tests, refactoring tests; no production code change)
 - `chore`: (updating grunt tasks etc; no production code change)
+
+Reference: https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
