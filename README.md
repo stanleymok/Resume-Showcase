@@ -13,7 +13,7 @@ Then create folder `src`
 - `npx babel --watch src --out-dir . --presets react-app/prod`
 
 # Technology Stack
-- Front-End: React JS
+- Front-End: React JS - Gatsby
 - Back-End: Firebase (if needed)
 
 # Colour Palette (UI/UX)
